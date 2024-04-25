@@ -1,1 +1,3 @@
-# curso-python-pip
+# Proyecto: Curso de Python y PIP
+
+# Pasos:
